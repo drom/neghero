@@ -1,0 +1,19 @@
+{
+  "name": "neghero",
+  "version": "1.0.0",
+  "description": "Random SnowFlake gcode generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/neghero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drom/neghero/issues"
+  },
+  "homepage": "https://github.com/drom/neghero#readme"
+}
