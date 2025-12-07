@@ -14,7 +14,7 @@ Idea is to generate continious path expanding from center with branches under 30
 ./bin/main.js -j "{tree:[7,[4,[5,[7,[5,[2,[5,[6,[6,[7,5,1],7],3],15],2],1],[9,[4,4,2],3]],5],5],3],s:4,l:11,p:2.8}" -o neghero-0005.gcode
 ```
 
-![](./assets/heghero-0004.jpg)
+![](./assets/neghero-0005.jpg)
 
 ## TODO
 
