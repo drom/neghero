@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/drom/neghero/issues"
   },
-  "homepage": "https://github.com/drom/neghero#readme"
+  "homepage": "https://github.com/drom/neghero#readme",
+  "devDependencies": {
+    "@drom/eslint-config": "^1.0.0",
+    "commander": "^14.0.2",
+    "eslint": "^9.39.1",
+    "json5": "^2.2.3"
+  }
 }
