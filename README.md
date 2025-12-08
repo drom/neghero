@@ -14,10 +14,12 @@ Generate set of continious outline paths expanding from center with branches und
 
 ![](./assets/neghero-0005.jpg)
 
+## CLI usage
 
-## View online
 
-How to test gcode: https://ncviewer.com
+## Other
+
+View G-code online: https://ncviewer.com
 
 ## TODO
 
@@ -31,5 +33,3 @@ Printer / material related parameters:
 * line width
 * layer height
 * print speed
-* print temperature
-* print bed temperature
