@@ -1,12 +1,10 @@
 # neĝero
 
-Random SnowFlake gcode generator
+SnowFlake G-code generator
 
-For printing on 3D printer with transparent material PETG, Polycarbonate, etc.
+For printing on 3D printer with transparent material PETG, Polycarbonate, etc. In a single layer.
 
-In 1+ layers.
-
-Idea is to generate continious path expanding from center with branches under 30 degrees.
+Generate set of continious outline paths expanding from center with branches under 30 degrees.
 
 ## Examples
 
@@ -16,13 +14,16 @@ Idea is to generate continious path expanding from center with branches under 30
 
 ![](./assets/neghero-0005.jpg)
 
+
+## View online
+
+How to test gcode: https://ncviewer.com
+
 ## TODO
 
 Online version: neghero.drom.io
 
 CLI version `npx neghero`
-
-How to test gcode: https://ncviewer.com
 
 Printer / material related parameters:
 

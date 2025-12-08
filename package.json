@@ -1,8 +1,11 @@
 {
   "name": "neghero",
   "version": "1.0.0",
-  "description": "Random SnowFlake gcode generator",
+  "description": "SnowFlake G-code generator",
   "main": "index.js",
+  "bin": {
+    "neghero": "bin/main.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

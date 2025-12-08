@@ -12,7 +12,7 @@ const main = async () => {
   program
     .option('-c, --config <file>', 'config file (JSON5)')
     .option('-j, --json <string>', 'config string (JSON5)')
-    .option('-p, --printer <file>', 'printer config file (JSON5)')
+    .option('-p, --profile <file>', 'printer / material profile file (JSON5)')
     .option('-o, --output <file>', 'output G-code file')
     .parse(process.argv);
 
@@ -39,13 +39,15 @@ const main = async () => {
   opts.pcfg = { // printer settings
     extrusionRate: 0.03326, // from my settings
     xoffset: 250,
-    yoffset: 250
+    yoffset: 250,
+    bedTemperature: 70,
+    printTemperature: 245
   };
 
-  if (opts.printer) {
-    const printerBody = await fs.promises.readFile(opts.printer, 'utf8');
-    const printerObj = json5.parse(printerBody);
-    Object.assign(opts.pcfg, printerObj);
+  if (opts.profile) {
+    const profileBody = await fs.promises.readFile(opts.profile, 'utf8');
+    const profileObj = json5.parse(profileBody);
+    Object.assign(opts.pcfg, profileObj);
   }
 
   const gcode = generate(opts);
