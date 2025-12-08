@@ -14,6 +14,13 @@ npx neghero -j "{tree:[7,[4,[5,[7,[5,[2,[5,[6,[6,[7,5,1],7],3],15],2],1],[9,[4,4
 
 ![](./assets/neghero-0005.jpg)
 
+```js
+npx neghero -j "{tree:[7,[5,[11,[11,[10,[9,[7,2,1],5],[5,4,1]],[6,[5,5,1],1]],[7,[7,4,2],3]],8],4],l:9,p:2.8}" -o neghero-0006.gcode
+```
+
+![](./assets/neghero-0006.jpg)
+
+
 ## CLI usage
 
 `npx neghero`
