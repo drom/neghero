@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 400 400.00002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (unknown)"
+   sodipodi:docname="tree.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="406.5"
+     inkscape:cy="145.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <radialGradient
+       id="Gradient"
+       cx="0.5"
+       cy="0.5"
+       r="1"
+       fx="0.25"
+       fy="0.25">
+      <stop
+         offset="0%"
+         stop-color="yellow"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="red"
+         id="stop2" />
+    </radialGradient>
+    <radialGradient
+       id="Gradient-5"
+       cx="0.5"
+       cy="0.5"
+       r="1"
+       fx="0.25"
+       fy="0.25">
+      <stop
+         offset="0%"
+         stop-color="yellow"
+         id="stop1-6" />
+      <stop
+         offset="100%"
+         stop-color="red"
+         id="stop2-2" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <style
+       id="style2">.box { stroke: #000; fill: none; }
+.grid { stroke: #eee; fill: none; stroke-width: 1px; }
+.axis { stroke: #f00; fill: none; stroke-width: 1px; }
+rect { fill: none; stroke: #000; }
+/* circle { fill: none; stroke: #000; } */
+ellipse { fill: none; stroke: #000; }
+line { stroke: #000; }
+text { font-size: 32px; font-family: 'sans'}
+path { fill: none; stroke: #000; }</style>
+    <rect
+       style="fill:#ffffe4;stroke:none;stroke-width:0.5;-inkscape-stroke:none;fill-opacity:1"
+       id="rect1"
+       width="400"
+       height="400"
+       x="0"
+       y="0" />
+    <g
+       transform="translate(62.000005,75.292345)"
+       id="g775">
+      <path
+         d="m 306,0 -1,1.7320508 h -62 l 23,39.8371682 -1,1.732051 h -2 L 239,1.7320508 h -76 l 22,38.1051182 h 16 l 1,1.73205 -1,1.732051 h -14 l 15,25.980762 -1,1.732051 h -2 l -15,-25.980762 -7,12.124356 h -2 L 174,55.425626 182,41.569219 159,1.7320508 H 3 v 0 L 81,136.83201 h 46 l 8,-13.8564 h 2 l 1,1.73205 -7,12.12435 h 30 l 1,1.73205 -1,1.73206 h -30 l 7,12.12435 -1,1.73205 h -2 l -8,-13.8564 H 83 l 38,65.81793 h 48 l 1,1.73205 -1,1.73205 h -46 l 31,53.69357 -1,1.73205 v 0 h -2 L 120,211.3102 97,251.14737 h -2 l -1,-1.73205 24,-41.56922 -38,-65.81793 -22,38.10511 8,13.85641 -1,1.73205 H 63 L 56,183.59739 41,209.57815 H 39 L 38,207.8461 53,181.86533 H 39 l -1,-1.73205 1,-1.73205 H 55 L 78,138.56406 0,3.4641016 v 0 l -78,135.0999584 23,39.83717 h 16 l 1,1.73205 -1,1.73205 h -14 l 15,25.98077 -1,1.73205 h -2 l -15,-25.98076 -7,12.12435 h -2 l -1,-1.73205 8,-13.85641 -22,-38.10511 -38,65.81793 24,41.56922 -1,1.73205 h -2 l -23,-39.83717 -31,53.69357 h -2 v 0 l -1,-1.73205 31,-53.69357 h -46 l -1,-1.73205 1,-1.73205 h 48 l 38,-65.81793 h -44 l -8,13.8564 h -2 l -1,-1.73205 7,-12.12435 h -30 l -1,-1.73206 1,-1.73205 h 30 l -7,-12.12435 1,-1.73205 h 2 l 8,13.8564 h 46 L -3,1.7320508 v 0 h -156 l -23,39.8371682 8,13.856407 -1,1.732051 h -2 l -7,-12.124356 -15,25.980762 h -2 l -1,-1.732051 15,-25.980762 h -14 l -1,-1.732051 1,-1.73205 h 16 l 22,-38.1051182 h -76 L -263,43.30127 h -2 l -1,-1.732051 23,-39.8371682 h -62 L -306,0 v 0 l 1,-1.7320508 h 62 l -23,-39.8371682 1,-1.732051 h 2 l 24,41.5692192 h 76 l -22,-38.1051182 h -16 l -1,-1.73205 1,-1.732051 h 14 l -15,-25.980762 1,-1.732051 h 2 l 15,25.980762 7,-12.124356 h 2 l 1,1.732051 -8,13.856407 23,39.8371682 H -3 v 0 L -81,-136.83201 h -46 l -8,13.8564 h -2 l -1,-1.73205 7,-12.12435 h -30 l -1,-1.73205 1,-1.73206 h 30 l -7,-12.12435 1,-1.73205 h 2 l 8,13.8564 h 44 l -38,-65.81793 h -48 l -1,-1.73205 1,-1.73205 h 46 l -31,-53.69357 1,-1.73205 v 0 h 2 l 31,53.69357 23,-39.83717 h 2 l 1,1.73205 -24,41.56922 38,65.81793 22,-38.10511 -8,-13.85641 1,-1.73205 h 2 l 7,12.12435 15,-25.98076 h 2 l 1,1.73205 -15,25.98077 h 14 l 1,1.73205 -1,1.73205 h -16 l -23,39.83717 78,135.0999584 v 0 L 78,-138.56406 55,-178.40123 H 39 l -1,-1.73205 1,-1.73205 h 14 l -15,-25.98077 1,-1.73205 h 2 l 15,25.98076 7,-12.12435 h 2 l 1,1.73205 -8,13.85641 22,38.10511 38,-65.81793 -24,-41.56922 1,-1.73205 h 2 l 23,39.83717 31,-53.69357 h 2 v 0 l 1,1.73205 -31,53.69357 h 46 l 1,1.73205 -1,1.73205 h -48 l -38,65.81793 h 44 l 8,-13.8564 h 2 l 1,1.73205 -7,12.12435 h 30 l 1,1.73206 -1,1.73205 h -30 l 7,12.12435 -1,1.73205 h -2 l -8,-13.8564 H 81 L 3,-1.7320508 v 0 h 156 l 23,-39.8371682 -8,-13.856407 1,-1.732051 h 2 l 7,12.124356 15,-25.980762 h 2 l 1,1.732051 -15,25.980762 h 14 l 1,1.732051 -1,1.73205 h -16 l -22,38.1051182 h 76 L 263,-43.30127 h 2 l 1,1.732051 -23,39.8371682 h 62 L 306,0 h 4 l -3,5.1961524 h -58 l 21,36.3730666 -3,5.196153 h -6 L 237,5.1961524 h -68 l 18,31.1769146 h 16 l 3,5.196152 -3,5.196153 h -10 l 13,22.51666 -3,5.196153 h -6 l -13,-22.516661 -5,8.660254 h -6 L 170,55.425626 178,41.569219 157,5.1961524 H 9 v 0 L 83,133.36791 h 42 l 8,-13.8564 h 6 l 3,5.19615 -5,8.66025 h 26 l 3,5.19615 -3,5.19616 h -26 l 5,8.66025 -3,5.19615 h -6 l -8,-13.8564 H 89 l 34,58.88972 h 48 l 3,5.19616 -3,5.19615 h -42 l 29,50.22947 -3,5.19616 v 0 h -6 L 120,218.2384 99,254.61147 h -6 l -3,-5.19615 24,-41.56922 -34,-58.88973 -18,31.17691 8,13.85641 -3,5.19615 h -6 l -5,-8.66025 -13,22.51666 H 37 L 34,207.8461 47,185.32944 H 37 l -3,-5.19616 3,-5.19615 H 53 L 74,138.56406 0,10.392305 v 0 l -74,128.171755 21,36.37307 h 16 l 3,5.19615 -3,5.19616 h -10 l 13,22.51666 -3,5.19615 h -6 l -13,-22.51666 -5,8.66025 h -6 l -3,-5.19615 8,-13.85641 -18,-31.17691 -34,58.88973 24,41.56922 -3,5.19615 h -6 l -21,-36.37307 -29,50.22948 h -6 v 0 l -3,-5.19616 29,-50.22947 h -42 l -3,-5.19615 3,-5.19616 h 48 l 34,-58.88972 h -36 l -8,13.8564 h -6 l -3,-5.19615 5,-8.66025 h -26 l -3,-5.19616 3,-5.19615 h 26 l -5,-8.66025 3,-5.19615 h 6 l 8,13.8564 h 42 L -9,5.1961524 v 0 h -148 l -21,36.3730666 8,13.856407 -3,5.196152 h -6 l -5,-8.660254 -13,22.516661 h -6 l -3,-5.196153 13,-22.51666 h -10 l -3,-5.196153 3,-5.196152 h 16 l 18,-31.1769146 h -68 l -24,41.5692196 h -6 l -3,-5.196153 21,-36.3730666 h -58 L -310,0 v 0 l 3,-5.1961524 h 58 l -21,-36.3730666 3,-5.196153 h 6 l 24,41.5692196 h 68 l -18,-31.1769146 h -16 l -3,-5.196152 3,-5.196153 h 10 l -13,-22.51666 3,-5.196153 h 6 l 13,22.516661 5,-8.660254 h 6 l 3,5.196152 -8,13.856407 21,36.3730666 H -9 v 0 L -83,-133.36791 h -42 l -8,13.8564 h -6 l -3,-5.19615 5,-8.66025 h -26 l -3,-5.19615 3,-5.19616 h 26 l -5,-8.66025 3,-5.19615 h 6 l 8,13.8564 h 36 l -34,-58.88972 h -48 l -3,-5.19616 3,-5.19615 h 42 l -29,-50.22947 3,-5.19616 v 0 h 6 l 29,50.22948 21,-36.37307 h 6 l 3,5.19615 -24,41.56922 34,58.88973 18,-31.17691 -8,-13.85641 3,-5.19615 h 6 l 5,8.66025 13,-22.51666 h 6 l 3,5.19615 -13,22.51666 h 10 l 3,5.19616 -3,5.19615 h -16 l -21,36.37307 74,128.171755 v 0 L 74,-138.56406 53,-174.93713 H 37 l -3,-5.19615 3,-5.19616 h 10 l -13,-22.51666 3,-5.19615 h 6 l 13,22.51666 5,-8.66025 h 6 l 3,5.19615 -8,13.85641 18,31.17691 34,-58.88973 -24,-41.56922 3,-5.19615 h 6 l 21,36.37307 29,-50.22948 h 6 v 0 l 3,5.19616 -29,50.22947 h 42 l 3,5.19615 -3,5.19616 h -48 l -34,58.88972 h 36 l 8,-13.8564 h 6 l 3,5.19615 -5,8.66025 h 26 l 3,5.19616 -3,5.19615 h -26 l 5,8.66025 -3,5.19615 h -6 l -8,-13.8564 H 83 L 9,-5.1961524 v 0 h 148 l 21,-36.3730666 -8,-13.856407 3,-5.196152 h 6 l 5,8.660254 13,-22.516661 h 6 l 3,5.196153 -13,22.51666 h 10 l 3,5.196153 -3,5.196152 h -16 l -18,31.1769146 h 68 l 24,-41.5692196 h 6 l 3,5.196153 -21,36.3730666 h 58 L 310,0 h 4 l -5,8.660254 h -54 l 19,32.908965 -5,8.660254 H 259 L 235,8.660254 h -60 l 14,24.248711 h 16 l 5,8.660254 -5,8.660254 h -6 l 11,19.052559 -5,8.660254 H 195 L 184,58.889727 181,64.08588 H 171 L 166,55.425626 174,41.569219 155,8.660254 H 15 v 0 L 85,129.90381 h 38 l 8,-13.85641 h 10 l 5,8.66026 -3,5.19615 h 22 l 5,8.66025 -5,8.66026 h -22 l 3,5.19615 -5,8.66026 h -10 l -8,-13.85641 H 95 l 30,51.96152 h 48 l 5,8.66026 -5,8.66025 h -38 l 27,46.76537 -5,8.66026 v 0 H 147 L 120,225.1666 101,258.07557 H 91 l -5,-8.66025 24,-41.56922 -30,-51.96153 -14,24.24871 8,13.85641 -5,8.66025 H 59 l -3,-5.19615 -11,19.05256 H 35 l -5,-8.66025 11,-19.05256 h -6 l -5,-8.66026 5,-8.66025 H 51 L 70,138.56406 0,17.320508 v 0 l -70,121.243552 19,32.90897 h 16 l 5,8.66025 -5,8.66026 h -6 l 11,19.05256 -5,8.66025 h -10 l -11,-19.05256 -3,5.19615 h -10 l -5,-8.66025 8,-13.85641 -14,-24.24871 -30,51.96153 24,41.56922 -5,8.66025 h -10 l -19,-32.90897 -27,46.76538 h -10 v 0 l -5,-8.66026 27,-46.76537 h -38 l -5,-8.66025 5,-8.66026 h 48 l 30,-51.96152 h -28 l -8,13.85641 h -10 l -5,-8.66026 3,-5.19615 h -22 l -5,-8.66026 5,-8.66025 h 22 l -3,-5.19615 5,-8.66026 h 10 l 8,13.85641 h 38 L -15,8.660254 v 0 h -140 l -19,32.908965 8,13.856407 -5,8.660254 h -10 l -3,-5.196153 -11,19.052559 h -10 l -5,-8.660254 11,-19.052559 h -6 l -5,-8.660254 5,-8.660254 h 16 l 14,-24.248711 h -60 l -24,41.569219 h -10 l -5,-8.660254 19,-32.908965 h -54 L -314,0 v 0 l 5,-8.660254 h 54 l -19,-32.908965 5,-8.660254 h 10 l 24,41.569219 h 60 l -14,-24.248711 h -16 l -5,-8.660254 5,-8.660254 h 6 l -11,-19.052559 5,-8.660254 h 10 l 11,19.052559 3,-5.196153 h 10 l 5,8.660254 -8,13.856407 19,32.908965 h 140 v 0 L -85,-129.90381 h -38 l -8,13.85641 h -10 l -5,-8.66026 3,-5.19615 h -22 l -5,-8.66025 5,-8.66026 h 22 l -3,-5.19615 5,-8.66026 h 10 l 8,13.85641 h 28 l -30,-51.96152 h -48 l -5,-8.66026 5,-8.66025 h 38 l -27,-46.76537 5,-8.66026 v 0 h 10 l 27,46.76538 19,-32.90897 h 10 l 5,8.66025 -24,41.56922 30,51.96153 14,-24.24871 -8,-13.85641 5,-8.66025 h 10 l 3,5.19615 11,-19.05256 h 10 l 5,8.66025 -11,19.05256 h 6 l 5,8.66026 -5,8.66025 h -16 l -19,32.90897 70,121.243552 v 0 L 70,-138.56406 51,-171.47303 H 35 l -5,-8.66025 5,-8.66026 h 6 l -11,-19.05256 5,-8.66025 h 10 l 11,19.05256 3,-5.19615 h 10 l 5,8.66025 -8,13.85641 14,24.24871 30,-51.96153 -24,-41.56922 5,-8.66025 h 10 l 19,32.90897 27,-46.76538 h 10 v 0 l 5,8.66026 -27,46.76537 h 38 l 5,8.66025 -5,8.66026 h -48 l -30,51.96152 h 28 l 8,-13.85641 h 10 l 5,8.66026 -3,5.19615 h 22 l 5,8.66026 -5,8.66025 h -22 l 3,5.19615 -5,8.66026 h -10 l -8,-13.85641 H 85 L 15,-8.660254 v 0 h 140 l 19,-32.908965 -8,-13.856407 5,-8.660254 h 10 l 3,5.196153 11,-19.052559 h 10 l 5,8.660254 -11,19.052559 h 6 l 5,8.660254 -5,8.660254 h -16 l -14,24.248711 h 60 l 24,-41.569219 h 10 l 5,8.660254 -19,32.908965 h 54 L 314,0 h 4 l -7,12.124356 h -50 l 17,29.444863 -7,12.124356 H 257 L 233,12.124356 h -52 l 10,17.320508 h 16 l 7,12.124355 -8,13.856407 8,13.856406 -7,12.124356 h -14 l -9,-15.588457 -1,1.73205 H 169 L 162,55.425626 170,41.569219 153,12.124356 H 21 v 0 L 87,126.43971 h 34 l 8,-13.85641 h 14 l 7,12.12436 -1,1.73205 h 18 l 7,12.12435 -7,12.12436 h -16 l -8,13.85641 h -14 l -8,-13.85641 h -20 l 26,45.03332 h 48 l 7,12.12436 -7,12.12435 h -34 l 25,43.30127 -7,12.12436 v 0 h -14 l -25,-43.30127 -17,29.44486 H 89 l -7,-12.12435 24,-41.56922 -26,-45.03332 -10,17.3205 8,13.85641 -7,12.12436 H 55 l -8,13.8564 H 33 l -7,-12.12435 9,-15.58846 h -2 l -7,-12.12436 7,-12.12435 H 49 L 66,138.56406 0,24.248711 v 0 l -66,114.315349 17,29.44487 h 16 l 7,12.12435 -7,12.12436 h -2 l 9,15.58846 -7,12.12435 h -14 l -8,-13.8564 h -16 l -7,-12.12436 8,-13.85641 -10,-17.3205 -26,45.03332 24,41.56922 -7,12.12435 h -14 l -17,-29.44486 -25,43.30127 h -14 v 0 l -7,-12.12436 25,-43.30127 h -34 l -7,-12.12435 7,-12.12436 h 48 l 26,-45.03332 h -20 l -8,13.85641 h -14 l -8,-13.85641 h -16 l -7,-12.12436 7,-12.12435 h 18 l -1,-1.73205 7,-12.12436 h 14 l 8,13.85641 h 34 L -21,12.124356 v 0 h -132 l -17,29.444863 8,13.856407 -7,12.124355 h -14 l -1,-1.73205 -9,15.588457 h -14 l -7,-12.124356 8,-13.856406 -8,-13.856407 7,-12.124355 h 16 l 10,-17.320508 h -52 l -24,41.569219 h -14 l -7,-12.124356 17,-29.444863 h -50 L -318,0 v 0 l 7,-12.124356 h 50 l -17,-29.444863 7,-12.124356 h 14 l 24,41.569219 h 52 l -10,-17.320508 h -16 l -7,-12.124355 8,-13.856407 -8,-13.856406 7,-12.124356 h 14 l 9,15.588457 1,-1.73205 h 14 l 7,12.124355 -8,13.856407 17,29.444863 h 132 v 0 L -87,-126.43971 h -34 l -8,13.85641 h -14 l -7,-12.12436 1,-1.73205 h -18 l -7,-12.12435 7,-12.12436 h 16 l 8,-13.85641 h 14 l 8,13.85641 h 20 l -26,-45.03332 h -48 l -7,-12.12436 7,-12.12435 h 34 l -25,-43.30127 7,-12.12436 v 0 h 14 l 25,43.30127 17,-29.44486 h 14 l 7,12.12435 -24,41.56922 26,45.03332 10,-17.3205 -8,-13.85641 7,-12.12436 h 16 l 8,-13.8564 h 14 l 7,12.12435 -9,15.58846 h 2 l 7,12.12436 -7,12.12435 h -16 l -17,29.44487 66,114.315349 v 0 L 66,-138.56406 49,-168.00893 H 33 l -7,-12.12435 7,-12.12436 h 2 l -9,-15.58846 7,-12.12435 h 14 l 8,13.8564 h 16 l 7,12.12436 -8,13.85641 10,17.3205 26,-45.03332 -24,-41.56922 7,-12.12435 h 14 l 17,29.44486 25,-43.30127 h 14 v 0 l 7,12.12436 -25,43.30127 h 34 l 7,12.12435 -7,12.12436 h -48 l -26,45.03332 h 20 l 8,-13.85641 h 14 l 8,13.85641 h 16 l 7,12.12436 -7,12.12435 h -18 l 1,1.73205 -7,12.12436 h -14 l -8,-13.85641 H 87 L 21,-12.124356 v 0 h 132 l 17,-29.444863 -8,-13.856407 7,-12.124355 h 14 l 1,1.73205 9,-15.588457 h 14 l 7,12.124356 -8,13.856406 8,13.856407 -7,12.124355 h -16 l -10,17.320508 h 52 l 24,-41.569219 h 14 l 7,12.124356 -17,29.444863 h 50 L 318,0 h 4 l -9,15.588457 h -46 l 15,25.980762 -9,15.588458 h -18 l -24,-41.56922 h -44 l 6,10.392305 h 16 l 9,15.588457 -8,13.856407 8,13.856406 -9,15.588458 H 191 L 183,71.014083 H 167 L 158,55.425626 166,41.569219 151,15.588457 H 27 v 0 L 89,122.97561 h 30 l 8,-13.85641 h 18 l 8,13.85641 h 16 l 9,15.58845 -9,15.58846 h -16 l -8,13.85641 h -18 l -8,-13.85641 h -12 l 22,38.10512 h 48 l 9,15.58846 -9,15.58845 h -30 l 23,39.83717 -9,15.58846 v 0 h -18 l -23,-39.83717 -15,25.98076 H 87 l -9,-15.58845 24,-41.56922 -22,-38.10512 -6,10.3923 8,13.85641 -9,15.58846 H 57 l -8,13.8564 H 31 l -9,-15.58845 8,-13.85641 -8,-13.85641 9,-15.58845 H 47 L 62,138.56406 0,31.176915 v 0 l -62,107.387145 15,25.98077 h 16 l 9,15.58845 -8,13.85641 8,13.85641 -9,15.58845 h -18 l -8,-13.8564 h -16 l -9,-15.58846 8,-13.85641 -6,-10.3923 -22,38.10512 24,41.56922 -9,15.58845 h -18 l -15,-25.98076 -23,39.83717 h -18 v 0 l -9,-15.58846 23,-39.83717 h -30 l -9,-15.58845 9,-15.58846 h 48 l 22,-38.10512 h -12 l -8,13.85641 h -18 l -8,-13.85641 h -16 l -9,-15.58846 9,-15.58845 h 16 l 8,-13.85641 h 18 l 8,13.85641 h 30 L -27,15.588457 v 0 h -124 l -15,25.980762 8,13.856407 -9,15.588457 h -16 l -8,13.856407 h -18 l -9,-15.588458 8,-13.856406 -8,-13.856407 9,-15.588457 h 16 l 6,-10.392305 h -44 l -24,41.56922 h -18 l -9,-15.588458 15,-25.980762 h -46 L -322,0 v 0 l 9,-15.588457 h 46 l -15,-25.980762 9,-15.588458 h 18 l 24,41.56922 h 44 l -6,-10.392305 h -16 l -9,-15.588457 8,-13.856407 -8,-13.856406 9,-15.588458 h 18 l 8,13.856407 h 16 l 9,15.588457 -8,13.856407 15,25.980762 h 124 v 0 L -89,-122.97561 h -30 l -8,13.85641 h -18 l -8,-13.85641 h -16 l -9,-15.58845 9,-15.58846 h 16 l 8,-13.85641 h 18 l 8,13.85641 h 12 l -22,-38.10512 h -48 l -9,-15.58846 9,-15.58845 h 30 l -23,-39.83717 9,-15.58846 v 0 h 18 l 23,39.83717 15,-25.98076 h 18 l 9,15.58845 -24,41.56922 22,38.10512 6,-10.3923 -8,-13.85641 9,-15.58846 h 16 l 8,-13.8564 h 18 l 9,15.58845 -8,13.85641 8,13.85641 -9,15.58845 h -16 l -15,25.98077 62,107.387145 v 0 L 62,-138.56406 47,-164.54483 H 31 l -9,-15.58845 8,-13.85641 -8,-13.85641 9,-15.58845 h 18 l 8,13.8564 h 16 l 9,15.58846 -8,13.85641 6,10.3923 22,-38.10512 -24,-41.56922 9,-15.58845 h 18 l 15,25.98076 23,-39.83717 h 18 v 0 l 9,15.58846 -23,39.83717 h 30 l 9,15.58845 -9,15.58846 h -48 l -22,38.10512 h 12 l 8,-13.85641 h 18 l 8,13.85641 h 16 l 9,15.58846 -9,15.58845 h -16 l -8,13.85641 h -18 l -8,-13.85641 H 89 L 27,-15.588457 v 0 h 124 l 15,-25.980762 -8,-13.856407 9,-15.588457 h 16 l 8,-13.856407 h 18 l 9,15.588458 -8,13.856406 8,13.856407 -9,15.588457 h -16 l -6,10.392305 h 44 l 24,-41.56922 h 18 l 9,15.588458 -15,25.980762 h 46 L 322,0 h 4 l -11,19.052559 h -42 l 13,22.51666 -11,19.052559 H 253 L 229,19.052559 h -36 l 2,3.464101 h 16 l 11,19.052559 -8,13.856407 8,13.856406 -11,19.052559 H 189 L 181,74.478185 H 165 L 154,55.425626 162,41.569219 149,19.052559 H 33 v 0 L 91,119.51151 h 26 l 8,-13.85641 h 22 l 8,13.85641 h 16 l 11,19.05255 -11,19.05256 h -16 l -8,13.85641 h -22 l -8,-13.85641 h -4 l 18,31.17692 h 48 l 11,19.05256 -11,19.05256 h -26 l 21,36.37306 -11,19.05256 v 0 h -22 l -21,-36.37307 -13,22.51667 H 85 L 74,249.41532 98,207.8461 80,176.66918 l -2,3.4641 8,13.85641 -11,19.05256 H 59 l -8,13.85641 H 29 L 18,207.8461 26,193.98969 18,180.13328 29,161.08073 H 45 L 58,138.56406 0,38.105118 v 0 l -58,100.458942 13,22.51667 h 16 l 11,19.05255 -8,13.85641 8,13.85641 -11,19.05256 h -22 l -8,-13.85641 h -16 l -11,-19.05256 8,-13.85641 -2,-3.4641 -18,31.17692 24,41.56922 -11,19.05256 h -22 l -13,-22.51667 -21,36.37307 h -22 v 0 l -11,-19.05256 21,-36.37306 h -26 l -11,-19.05256 11,-19.05256 h 48 l 18,-31.17692 h -4 l -8,13.85641 h -22 l -8,-13.85641 h -16 l -11,-19.05256 11,-19.05255 h 16 l 8,-13.85641 h 22 l 8,13.85641 h 26 L -33,19.052559 v 0 h -116 l -13,22.51666 8,13.856407 -11,19.052559 h -16 l -8,13.856406 h -22 l -11,-19.052559 8,-13.856406 -8,-13.856407 11,-19.052559 h 16 l 2,-3.464101 h -36 l -24,41.569219 h -22 l -11,-19.052559 13,-22.51666 h -42 L -326,0 v 0 l 11,-19.052559 h 42 l -13,-22.51666 11,-19.052559 h 22 l 24,41.569219 h 36 l -2,-3.464101 h -16 l -11,-19.052559 8,-13.856407 -8,-13.856406 11,-19.052559 h 22 l 8,13.856406 h 16 l 11,19.052559 -8,13.856407 13,22.51666 h 116 v 0 L -91,-119.51151 h -26 l -8,13.85641 h -22 l -8,-13.85641 h -16 l -11,-19.05255 11,-19.05256 h 16 l 8,-13.85641 h 22 l 8,13.85641 h 4 l -18,-31.17692 h -48 l -11,-19.05256 11,-19.05256 h 26 l -21,-36.37306 11,-19.05256 v 0 h 22 l 21,36.37307 13,-22.51667 h 22 l 11,19.05256 -24,41.56922 18,31.17692 2,-3.4641 -8,-13.85641 11,-19.05256 h 16 l 8,-13.85641 h 22 l 11,19.05256 -8,13.85641 8,13.85641 -11,19.05255 h -16 l -13,22.51667 58,100.458942 v 0 L 58,-138.56406 45,-161.08073 H 29 l -11,-19.05255 8,-13.85641 -8,-13.85641 11,-19.05256 h 22 l 8,13.85641 h 16 l 11,19.05256 -8,13.85641 2,3.4641 18,-31.17692 -24,-41.56922 11,-19.05256 h 22 l 13,22.51667 21,-36.37307 h 22 v 0 l 11,19.05256 -21,36.37306 h 26 l 11,19.05256 -11,19.05256 h -48 l -18,31.17692 h 4 l 8,-13.85641 h 22 l 8,13.85641 h 16 l 11,19.05256 -11,19.05255 h -16 l -8,13.85641 h -22 l -8,-13.85641 H 91 L 33,-19.052559 v 0 h 116 l 13,-22.51666 -8,-13.856407 11,-19.052559 h 16 l 8,-13.856406 h 22 l 11,19.052559 -8,13.856406 8,13.856407 -11,19.052559 h -16 l -2,3.464101 h 36 l 24,-41.569219 h 22 l 11,19.052559 -13,22.51666 h 42 L 326,0"
+         id="path774"
+         style="stroke:#898a89;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 62.000005,75.024395 141,213.02439"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#6b1478;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 191,211.98076 8,-13.71281"
+       id="path2"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="68.5"
+       inkscape:transform-center-y="-5.5" />
+    <path
+       style="fill:none;stroke:#a6a500;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193,213.02439 h 28"
+       id="path2-9"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="68.5"
+       inkscape:transform-center-y="-5.5" />
+    <path
+       style="fill:none;stroke:#0083ff;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 185.48093,285.02439 216,338.56406"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff02ff;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185,285.02439 h 44"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141,213.02439 44,71.8461"
+       id="path2-9-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141,213.02439 h 52"
+       id="path1-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="81.000008"
+       y="181.02438"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="81.000008"
+         y="181.02438"
+         style="font-size:24px;fill:#0000ff;fill-opacity:1">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="169"
+       y="233.02438"
+       id="text1-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-9"
+         x="169"
+         y="233.02438"
+         style="font-size:24px;fill:#ff0000;fill-opacity:1">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="203"
+       y="236.37308"
+       id="text1-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-1"
+         x="203"
+         y="236.37308"
+         style="font-size:24px;fill:#969800;fill-opacity:1">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#00fb00;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="145"
+       y="269.02441"
+       id="text1-4"><tspan
+         sodipodi:role="line"
+         id="tspan1-5"
+         x="145"
+         y="269.02441"
+         style="font-size:24px;fill:#009000;fill-opacity:1">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0080ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="185"
+       y="329.02441"
+       id="text1-0"><tspan
+         sodipodi:role="line"
+         id="tspan1-6"
+         x="185"
+         y="329.02441"
+         style="font-size:24px;fill:#0080ff;fill-opacity:1">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="221"
+       y="305.02441"
+       id="text1-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-55"
+         x="221"
+         y="305.02441"
+         style="font-size:24px;fill:#ff00ff;fill-opacity:1">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="73.500008"
+       y="377.02441"
+       id="text1-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         x="73.500008"
+         y="377.02441"
+         style="font-size:24px;fill:#4e4f51;fill-opacity:1">[<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+   id="tspan4">10</tspan>,[<tspan
+   style="fill:#03a200;fill-opacity:1"
+   id="tspan5">5</tspan>,<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#0080ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+   id="tspan6">4</tspan>,<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+   id="tspan7">3</tspan>],[<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+   id="tspan8">3</tspan>,<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#969800;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+   id="tspan9">2</tspan>,<tspan
+   style="fill:#5b00b2;fill-opacity:1"
+   id="tspan10">1</tspan>]]</tspan></text>
+    <style
+       id="style2-9">.box { stroke: #000; fill: none; }
+.grid { stroke: #eee; fill: none; stroke-width: 1px; }
+.axis { stroke: #f00; fill: none; stroke-width: 1px; }
+rect { fill: none; stroke: #000; }
+/* circle { fill: none; stroke: #000; } */
+ellipse { fill: none; stroke: #000; }
+line { stroke: #000; }
+text { font-size: 32px; font-family: 'sans'}
+path { fill: none; stroke: #000; }</style>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#7400b1;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="201"
+       y="193.02438"
+       id="text1-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-1-0"
+         x="201"
+         y="193.02438"
+         style="font-size:24px;fill:#7400b1;fill-opacity:1">1</tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 89,189.02439 c -19.999995,28 -44.999995,94.11405 11.5,166"
+       id="path11"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 217,184.02439 c 42.5,-1.5 86.5,66.5 106.5,170.5"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 217,241.02439 c 40,17 74,19 79.5,114.5"
+       id="path15"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 181,237.02439 c 16,32 89.5,-20 87.5,120"
+       id="path14"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 229.5,310.02439 c 4.43376,13.33103 3.48505,37.17091 -16.5,47.5"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 189,329.02439 c -8,8 -9.5,19 -7,29.5"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 145,269.02439 c -20,28 -18,66.68327 2.5,85"
+       id="path11-8"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
