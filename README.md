@@ -85,7 +85,7 @@ display/print grid pitch. (optional, default: 2)
 
 ## Online version
 
-https://observablehq.com/@drom/heghero
+https://observablehq.com/@drom/neghero
 
 ## Other
 
