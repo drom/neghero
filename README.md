@@ -71,6 +71,8 @@ It is a recursive structure of nodes, where node is a 3 element array:
   - natural number, for a final side branches.
   - Node, for a next level of the tree.
 
+![](./assets/tree.png)
+
 ### s:
 
 Tree scale. natural number to scale tree numbers. (optional, default: 4)
