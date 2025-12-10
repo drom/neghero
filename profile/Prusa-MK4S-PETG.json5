@@ -1,0 +1,7 @@
+{
+  extrusionRate: 0.03326,
+  xoffset: 125,  // Center X on 250mm bed (250/2)
+  yoffset: 105,  // Center Y on 210mm bed (210/2)
+  bedTemperature: 70, // Optimal PETG bed temp (typically 60-80°C)
+  printTemperature: 245 // Optimal PETG print temp (typically 230-250°C)
+}
