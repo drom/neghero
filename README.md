@@ -32,6 +32,11 @@ npx neghero -j "{tree:[7,[5,[11,[11,[10,[9,[7,2,1],5],[5,4,1]],[6,[5,5,1],1]],[7
 
 ![](./assets/neghero-0007.jpg)
 
+```js
+npx neghero -j "{tree:[8,[3,7,8],5],s:10,l:11,p:2.8}" -o neghero-0003.gcode
+```
+
+![](./assets/neghero-0003.jpg)
 
 ## CLI usage
 
