@@ -17,6 +17,7 @@ npx neghero -c examples/neghero-0005.json5 -o neghero-0005.gcode
 ```
 
 <div>
+<img src="./assets/neghero-0003.jpg" width="49%">
 <img src="./assets/neghero-0004.jpg" width="49%">
 <img src="./assets/neghero-0005.jpg" width="49%">
 <img src="./assets/neghero-0006.jpg" width="49%">
@@ -25,6 +26,7 @@ npx neghero -c examples/neghero-0005.json5 -o neghero-0005.gcode
 <img src="./assets/neghero-0009.jpg" width="49%">
 <img src="./assets/neghero-0010.jpg" width="49%">
 <img src="./assets/neghero-0011.jpg" width="49%">
+<img src="./assets/neghero-0012.jpg" width="49%">
 </div>
 
 ## CLI usage
