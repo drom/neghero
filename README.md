@@ -12,31 +12,20 @@ Generate set of continious outline paths expanding from center with branches und
 npx neghero -j "{tree:[4,[3,[10,[8,[2,1,1],[3,1,1]],[5,5,[3,2,[2,1,1]]]],3],3],s:8,l:7,p:2.8}" -o neghero-0004.gcode
 ```
 
-![](./assets/neghero-0004.jpg)
-
 ```js
-npx neghero -j "{tree:[7,[4,[5,[7,[5,[2,[5,[6,[6,[7,5,1],7],3],15],2],1],[9,[4,4,2],3]],5],5],3],s:4,l:11,p:2.8}" -o neghero-0005.gcode
+npx neghero -c examples/neghero-0005.json5 -o neghero-0005.gcode
 ```
 
-![](./assets/neghero-0005.jpg)
-
-```js
-npx neghero -j "{tree:[7,[5,[11,[12,[4,[6,[9,4,4],10],15],13],16],5],3],l:15,p:2.8}" -o neghero-0006.gcode
-```
-
-![](./assets/neghero-0006.jpg)
-
-```js
-npx neghero -j "{tree:[7,[5,[11,[11,[10,[9,[7,2,1],5],[5,4,1]],[6,[5,5,1],1]],[7,[7,4,2],3]],8],4],l:9,p:2.8}" -o neghero-0007.gcode
-```
-
-![](./assets/neghero-0007.jpg)
-
-```js
-npx neghero -j "{tree:[8,[3,7,8],5],s:10,l:11,p:2.8}" -o neghero-0003.gcode
-```
-
-![](./assets/neghero-0003.jpg)
+<div>
+<img src="./assets/neghero-0004.jpg" width="49%">
+<img src="./assets/neghero-0005.jpg" width="49%">
+<img src="./assets/neghero-0006.jpg" width="49%">
+<img src="./assets/neghero-0007.jpg" width="49%">
+<img src="./assets/neghero-0008.jpg" width="49%">
+<img src="./assets/neghero-0009.jpg" width="49%">
+<img src="./assets/neghero-0010.jpg" width="49%">
+<img src="./assets/neghero-0011.jpg" width="49%">
+</div>
 
 ## CLI usage
 
